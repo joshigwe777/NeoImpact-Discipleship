@@ -1,0 +1,46 @@
+* {
+    font-family: 'Lora', serif;
+}
+h1, h3 {
+    text-align: center;
+}
+header {
+    background-image: url("../images/graduation.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    color: gold;
+    font-weight:800;
+}
+nav a {
+    font-weight: 600;
+}
+nav img {
+    opacity: 0.6;
+    border-radius: 50%;
+}
+p {
+    font-weight: 500;
+    font-size: large;
+}
+
+.homeImg {
+    border-radius: 5px;
+    border: solid black 2px;
+}
+
+i {
+    color: white;
+}
+
+.book {
+    width: 220px;
+}
+
+footer {
+    background-color: rgb(53, 48, 48);
+    height: 200px;
+    margin-top: 10px;
+}
