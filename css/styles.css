@@ -11,8 +11,11 @@ header {
     background-repeat: no-repeat;
     background-size: cover;
     height: 800px;
-    color: gold;
+    color: rgb(240, 229, 167);
     font-weight:800;
+}
+.sectionhead {
+    border-bottom: solid black 3px;;
 }
 nav a {
     font-weight: 600;
@@ -30,6 +33,10 @@ p {
     border-radius: 5px;
     border: solid black 2px;
 }
+#pottery {
+    border: solid black 3px;
+    border-radius: 8px;
+}
 
 i {
     color: white;
@@ -41,6 +48,6 @@ i {
 
 footer {
     background-color: rgb(53, 48, 48);
-    height: 200px;
-    margin-top: 10px;
+    height: 150px;
+    margin-top: 10px; 
 }
