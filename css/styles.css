@@ -15,7 +15,7 @@ header {
     font-weight:800;
 }
 .sectionhead {
-    border-bottom: solid black 3px;;
+    font-weight: 600;
 }
 nav a {
     font-weight: 600;
@@ -29,7 +29,7 @@ p {
     font-size: large;
 }
 
-.homeImg {
+.homeImg, .apprentice {
     border-radius: 5px;
     border: solid black 2px;
 }
@@ -37,6 +37,7 @@ p {
     border: solid black 3px;
     border-radius: 8px;
 }
+
 
 i {
     color: white;
